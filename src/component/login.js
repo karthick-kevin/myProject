@@ -4,7 +4,7 @@ import style from "../css/login.module.css";
 function Login() {
   return (
     <div>
-      <h1 className={style.text}>hello</h1>
+      <h1 className={style.text}>hellssssso</h1>
     </div>
   );
 }
